@@ -1,0 +1,162 @@
+    1  cd
+    2  -c&&rm~/.bash_histiry
+    3  -c&&rm~/.bash_history
+    4  history-c&&rm~/.bash_history
+    5  clear
+    6  ls
+    7  cd Desktop
+    8  sd :
+    9  cd ..
+   10  cd Репозиторій
+   11  clear
+   12  ls
+   13  clear
+   14  ls
+   15  cd Desktop
+   16  cd Desktop/
+   17  cd Repozetorium
+   18  ping google.com
+   19  clear
+   20  system_profiler
+   21  cd Desktop
+   22  cd Git
+   23  clear
+   24  git config --global user.name"Vlad Leshchyshyn"
+   25  git config --global user.name "Vlad Leshchyshyn"
+   26  git config --global email.name wladboss88@gmail.com
+   27  git clone 
+   28  git clone 
+   29  git clone https://github.com/Jamesmannnn/HW__10.git
+   30  cd HW__10/
+   31  git status
+   32  touch text_ignote.txt
+   33  nano .gitignore
+   34  cd Desktop
+   35  cd Git
+   36  cd HW__10
+   37  nano .gitignore
+   38  git ignore
+   39  git status
+   40  git add
+   41  git add .gitignore
+   42  commit
+   43  git status
+   44  touch main_test.txt
+   45  git add .text_ignote.txt
+   46  git status
+   47  git add .main_test
+   48  git add .test
+   49  git add
+   50  git add .main_test
+   51  clear
+   52  git add .
+   53  git commit -m
+   54  git checkout -b developer
+   55  touch develop_test.txt
+   56  git add . 
+   57  git commit -m "Додано порожній файл develop_test.txt"
+   58  Omit --global
+   59  0mit --global
+   60  echo "just a small change" >> develop_test.txt
+   61  git status
+   62  git add .
+   63  git commit -m "Додано текст у developer_test.txt"
+   64  git checkout main 
+   65  git merge develop 
+   66  git log --oneline -- graph --all
+   67  history > command_list.csv
+   68  history 0 > command_list.csv
+   69  git add .
+   70  git push origin main 
+   71  cd Desktop 
+   72  cd Git 
+   73  cd HW__10
+   74  git push origin main
+   75  cd Desktop
+   76  cd Git 
+   77  git config --global user.name "Vlad Leshchyshyn"
+   78  git config --global user.email ta1lerrez@gmail.com
+   79  git clone https://github.com/Jamesmannnn/HW-10.git
+   80  cd HW-10
+   81  touch text_ignote.txt
+   82  nano .gitignore
+   83  git status 
+   84  git add .
+   85  git commit
+   86  cd Desktop
+   87  cd Git 
+   88  git config --global user.name "Vlad Leshchyshyn"
+   89  git config --global user.email ta1lerrez@gmail.com
+   90  cd HW-10
+   91  git status 
+   92  git commit
+   93  touch main_test.txt
+   94  git add .
+   95  git commit
+   96  cd Desktop
+   97  cd Git 
+   98  git config --global user.name "Vlad Leshchyshyn"
+   99  git config --global user.email ta1lerrez@gmail.com
+  100  cd HW-10
+  101  git status 
+  102  git branch
+  103  nano text_ignore.txt
+  104  git add .
+  105  git command
+  106  git status
+  107  cd Desktop
+  108  cd Git
+  109  git config --global user.name "Vlad Leshchyshyn"
+  110  git config --global user.email ta1lerrez@gmail.com
+  111  git clone https://github.com/Jamesmannnn/HW10.git
+  112  cd HW10
+  113  touch text_ignore.txt
+  114  nano .gitignore
+  115  git status
+  116  git add .
+  117  git commit
+  118  touch main_test.txt
+  119  git add .
+  120  git commit
+  121  git checkout -b develop
+  122  touch develop_test.txt
+  123  git add .
+  124  git status
+  125  nano develop_test.txt
+  126  git status
+  127  git add .
+  128  git commit -m"Third change"
+  129  git checkout main
+  130  git merge develop
+  131  git log
+  132  history > command_list.csv
+  133  git add .
+  134  git commit -m"Final commit"
+  135  git push
+  136  git clone https://github.com/Jamesmannnn/HW_10.git
+  137  cd Desktop
+  138  cd Git
+  139  git config --global user.name "Vlad Leshchyshyn"
+  140  git config --global user.email ta1lerrez@gmail.com
+  141  git clone https://github.com/Jamesmannnn/HW_10.git
+  142  cd HW_10
+  143  touch text_ignore.txt
+  144  nano .gitignore
+  145  git status
+  146  git add .
+  147  git commit -m"First task commit"
+  148  touch main_test.txt
+  149  git add .
+  150  git commit -m"Second task commit"
+  151  git checkout -b develop
+  152  touch develop_test.txt
+  153  git add .
+  154  git commit -m"Commit inside develop branch"
+  155  nano develop_test.txt
+  156  git status
+  157  git add .
+  158  git commit -m"Last commit in develop branch"
+  159  git checkout main
+  160  git merge develop
+  161  git log
+  162  history > command_list.csv
